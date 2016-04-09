@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         self.view.backgroundColor = UIColor.blackColor()
         
-        /// 使用方式
+        /// 使用方式  添加备注信息
         let progressView = ProgressView()
         progressView.backgroundColor = UIColor.clearColor()
         progressView.bounds = CGRect(x: 0, y: 0, width: 50, height: 50)
