@@ -13,6 +13,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         self.view.backgroundColor = UIColor.blackColor()
+        
+        /// 使用方式
         let progressView = ProgressView()
         progressView.backgroundColor = UIColor.clearColor()
         progressView.bounds = CGRect(x: 0, y: 0, width: 50, height: 50)
