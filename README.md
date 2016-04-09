@@ -26,3 +26,7 @@ public static void main(String[] agrs) {} //java
 ```
 
 ``oc``
+
+```Swift
+let label = UIlabel()
+```
